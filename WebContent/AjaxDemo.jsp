@@ -7,12 +7,14 @@
     <sx:head />
 </head>
 <body>
-    <h2>Struts 2 Autocomplete (Drop down) Example!</h2>
+    <h2>Struts 2 Autocomplete <br/> (Drop down) Example!</h2>
      
     Country:
     <sx:autocompleter size="1" list="countries" name="country"></sx:autocompleter>
-    <sx:textarea value="vide" ></sx:textarea>
-    <sx:datetimepicker>Date</sx:datetimepicker>
+    <br/> <br/>
+    <sx:textarea value="vide" > Zone de texte </sx:textarea>
+    <br/> <br/>
+    <sx:datetimepicker>Date: </sx:datetimepicker>
 
 <!--     </action> -->
 </body>

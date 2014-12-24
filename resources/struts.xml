@@ -68,7 +68,12 @@
 		
 <!--         <action name="userImage-form"> -->
 <!--             <result name="success" type="tiles">/userImage.tiles</result> -->
-<!--         </action>		        -->
-		
+<!--         </action>	
+	        -->
+<!-- 		   <action name="ajaxAction" class="net.viralpatel.struts2.AjaxJsonAction"> -->
+<!-- 				<interceptor-ref name="loggingStack"></interceptor-ref>   -->
+<!-- 		        <result type="json">/AjaxDemo2.jsp</result> -->
+<!-- 		   </action>		 -->
+
     </package>
 </struts>

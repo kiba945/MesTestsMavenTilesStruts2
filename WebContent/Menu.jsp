@@ -5,3 +5,5 @@
 <s:a href="userImage">File Upload</s:a>
 <br/><br/>
 <s:a href="ajaxdemo">Ajax Demo</s:a>
+<br/><br/>
+<s:a href="ajaxAction">Ajax Demo 2</s:a>
